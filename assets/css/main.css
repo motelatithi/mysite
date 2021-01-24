@@ -898,9 +898,6 @@ input, select, textarea {
 			overflow-x:auto;
 			overflow-y:hidden;
 			white-space:nowrap;
-			display: block;
-			margin: 2.5rem 0;
-			width: 100%;
 		}
 		.scrollphotos img{
 			display:inline-block;
