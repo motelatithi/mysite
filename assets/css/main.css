@@ -892,7 +892,7 @@ input, select, textarea {
 						}
 
 		}
-		
+		@media screen and (max-width: 736px) {
 		.scrollphotos{
 			background-color:#333;
 			overflow-x:auto;
@@ -907,6 +907,7 @@ input, select, textarea {
 			color:white;
 			padding:5px;
 		}
+}
 
 /* Icons */
 
